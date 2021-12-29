@@ -1,0 +1,194 @@
+    .body {
+        margin: 0px;
+        background-color: cornsilk;
+    }
+    
+    .navbar {
+        background-color: black;
+        color: white;
+        font-weight: 20px;
+        opacity: 75%;
+        height: 19vh;
+        display: flex;
+        align-items: center;
+        justify-content: flex-end;
+        /* position: fixed; */
+        /* Set the navbar to fixed position */
+        top: 0;
+        /* Position the navbar at the top of the page */
+        width: 100%;
+        /* Full width */
+    }
+    
+    #nav1 {
+        margin-right: 400px;
+        padding-right: 10px;
+    }
+    
+    #nav1 svg {
+        margin-top: 15px;
+        margin-left: 15px;
+    }
+    
+    .navbar div {
+        margin-right: 30px;
+        padding: 10px;
+    }
+    
+    .navbar div:hover {
+        text-decoration: underline;
+        font-weight: bold;
+        text-decoration-color: aqua;
+    }
+    
+    .outer-nav {
+        height: 70vh;
+        width: 100%;
+        background: url("../Photos/trees-g18e9b46ab_1920.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        margin-bottom: 50px;
+    }
+    
+    .para {
+        text-align: center;
+        margin-bottom: 40px;
+    }
+    
+    .para h1 {
+        letter-spacing: 0.5;
+    }
+    
+    .para h2 {
+        word-spacing: 1.8px;
+        font-weight: 15px;
+    }
+    
+    .below {
+        display: flex;
+        align-items: center;
+        justify-content: space-evenly;
+        margin-bottom: 50px;
+    }
+    
+    .below-1 {
+        background-image: url("../Photos/avenue-656969__480.jpg");
+        display: flex;
+        color: white;
+        align-items: center;
+        justify-content: center;
+        width: 45%;
+        height: 50vh;
+    }
+    
+    .below-1 div {
+        text-align: center;
+    }
+    
+    .below-2 {
+        background-image: url("../Photos/trees-g18e9b46ab_1920.jpg");
+        display: flex;
+        color: white;
+        align-items: center;
+        justify-content: center;
+        width: 45%;
+        height: 50vh;
+    }
+    
+    .below-2 div {
+        text-align: center;
+    }
+    
+    .below-3 {
+        background-image: url("../Photos/todd-quackenbush-XBxQZLNBM0Q-unsplash.jpg");
+        display: flex;
+        color: white;
+        align-items: center;
+        justify-content: center;
+        width: 45%;
+        height: 50vh;
+    }
+    
+    .below-3 div {
+        text-align: center;
+    }
+    
+    .below-4 {
+        background-image: url("../Photos/avenue-656969__480.jpg");
+        display: flex;
+        color: white;
+        align-items: center;
+        justify-content: center;
+        width: 45%;
+        height: 50vh;
+    }
+    
+    .below-4 div {
+        text-align: center;
+    }
+    
+    .wine {
+        background-color: navajowhite;
+        height: 60vh;
+        display: inline-block;
+    }
+    
+    .wine1 svg {
+        display: block;
+        float: left;
+    }
+    
+    .wine1 p:first-child {
+        font-size: 30px;
+        font-weight: bold;
+        font-style: italic;
+        text-align: center;
+    }
+    
+    .wine2 p {
+        font-style: italic;
+        text-align: left;
+        font-weight: bold;
+        margin-left: 220px;
+        line-height: 1.5em;
+        /* display: block; */
+    }
+    
+    .but {
+        background-color: peru;
+        color: white;
+        height: 40px;
+        border-radius: 5px;
+        position: absolute;
+        left: 600px;
+    }
+    
+    .content fieldset legend {
+        margin-top: 20px;
+        text-align: center;
+        font-size: 50px;
+        font-weight: bold;
+        font-style: italic;
+    }
+    
+    .content {
+        margin-top: 20px;
+        font-weight: bold;
+    }
+    
+    .input {
+        margin: 5px 0px 5px 0px;
+        border: 0ch;
+        border-radius: 2px;
+        width: 45%;
+        height: 30px;
+        /* margin: 5px; */
+    }
+    
+    #i1 {
+        margin-left: 40px;
+    }
+    
+    #i2 {
+        margin-left: 20px;
+    }
