@@ -44,7 +44,7 @@
     .outer-nav {
         height: 70vh;
         width: 100%;
-        background: url("../Photos/trees-g18e9b46ab_1920.jpg");
+        background: url("./Photos/trees-g18e9b46ab_1920.jpg");
         background-repeat: no-repeat;
         background-size: cover;
         margin-bottom: 50px;
@@ -72,7 +72,7 @@
     }
     
     .below-1 {
-        background-image: url("../Photos/avenue-656969__480.jpg");
+        background-image: url("./Photos/avenue-656969__480.jpg");
         display: flex;
         color: white;
         align-items: center;
@@ -86,7 +86,7 @@
     }
     
     .below-2 {
-        background-image: url("../Photos/trees-g18e9b46ab_1920.jpg");
+        background-image: url("./Photos/trees-g18e9b46ab_1920.jpg");
         display: flex;
         color: white;
         align-items: center;
@@ -100,7 +100,7 @@
     }
     
     .below-3 {
-        background-image: url("../Photos/todd-quackenbush-XBxQZLNBM0Q-unsplash.jpg");
+        background-image: url("./Photos/todd-quackenbush-XBxQZLNBM0Q-unsplash.jpg");
         display: flex;
         color: white;
         align-items: center;
@@ -114,7 +114,7 @@
     }
     
     .below-4 {
-        background-image: url("../Photos/avenue-656969__480.jpg");
+        background-image: url("./Photos/avenue-656969__480.jpg");
         display: flex;
         color: white;
         align-items: center;
